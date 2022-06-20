@@ -251,23 +251,15 @@ const Projects = props => {
                         
     React.createElement("a", { href: "", target: "", rel: "" }, ""), "")), /*#__PURE__*/
 
-
-    
+ React.createElement("div", { className: "resim1" }, /*#__PURE__*/
+                          React.createElement("h5", null, ""),  React.createElement("br", null), /*#__PURE__*/
+                      
+               
+         ),
+    React.createElement("p", null, "Farklı sübstitüentler içeren benzhidrazit ligandlarının kullanılmasındaki amaç, hidrazit ligandlarının azot atomu üzerindeki elektron yoğunluğunu değiştirerek Suzuki eşleşme reaksiyonları üzerindeki etkisini incelemektir."),
                         
-    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
                         
-    React.createElement(Project, {
-      title: "",
-      img: 'https://atazanavir.github.io/project-/img/grafik.001.png',
-      tech: "",
-      link: "",
-      repo: "" }, /*#__PURE__*/
-
-    React.createElement("small", null, "Farklı sübstitüentler içeren benzhidrazit ligandlarının kullanılmasındaki amaç, hidrazit ligandlarının azot atomu üzerindeki elektron yoğunluğunu değiştirerek Suzuki eşleşme reaksiyonları üzerindeki etkisini incelemektir."), /*#__PURE__*/
-
-
-    React.createElement("p", null, "")),
-                        
+     
                         
     React.createElement("p", null, "Daha önce ekibimiz tarafından yapılan çalışmalarda ve bu çalışma için elde edilen x-ışınları analizine göre paladyum merkez atomununun hidrazit ligandlarına çok yüksek ihtimalle sadece amin (-NH2) ucundan bağlanmayı tercih ettiği bilinmektedir. Bu nedenle her iki kompleks için de benzer bir yapı önerilmiştir."), /*#__PURE__*/  
                    
@@ -281,18 +273,17 @@ const Projects = props => {
     React.createElement("p", null, "Ardından istenilen sıcaklık ayarlanmıştır."), /*#__PURE__*/
     React.createElement("p", null, "Reaksiyon ortamından belirli aralıklarla numuneler alınmış ve her bir numune gaz kromatografisi cihazında analiz edilmiştir."), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
-   
+   React.createElement("div", { className: "resim2" }, /*#__PURE__*/
+                          React.createElement("h5", null, ""),  React.createElement("br", null), /*#__PURE__*/
+                      
+               
+         ),
+                         React.createElement("p", null, "Analizler sırasında her bir substratın ve ürünün saf halleri standart olarak kullanılmış ve arilbromür miktarındaki azalmaya göre % dönüşüm belirlenmiştir."), 
                         
-                            React.createElement(Project, {
-      title: "",
-      img: 'https://atazanavir.github.io/project-/img/grafik.002.png',
-      tech: "",
-      link: "",
-      repo: "" }, /*#__PURE__*/
-
-    React.createElement("small", null, "Analizler sırasında her bir substratın ve ürünün saf halleri standart olarak kullanılmış ve arilbromür miktarındaki azalmaya göre % dönüşüm belirlenmiştir."), /*#__PURE__*/
-
-                                                
+                        
+                     
+  React.createElement("br", null),   
+                                      
                                                 
                                                 
                                                 
@@ -310,21 +301,20 @@ const Projects = props => {
     React.createElement("p", null, ""), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/  
                         
-    React.createElement("p", null, "")),
+    React.createElement("p", null, ""),
                         
                                                 
      
                        
                        
-                       ),
                         
     React.createElement("div", { className: "denemeyedeger" }, /*#__PURE__*/
-                          React.createElement("p", null, "."), /*#__PURE__*/
+                          React.createElement("h5", null, "Katalizör 1"),  React.createElement("br", null), /*#__PURE__*/
                        
                
          ),
             React.createElement("div", { className: "deneme" }, /*#__PURE__*/
-                          React.createElement("p", null, "."), /*#__PURE__*/
+                          React.createElement("h5", null, "Katalizör 2"),  React.createElement("br", null), /*#__PURE__*/
                        
                
          ),             
