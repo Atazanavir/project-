@@ -79,7 +79,7 @@ const Header = props => {
     React.createElement("div", { className: "moon" }), /*#__PURE__*/
     React.createElement("div", { className: "container" }, /*#__PURE__*/
     React.createElement("h1", null, /*#__PURE__*/
-    React.createElement("span", { className: "line" }, "İKİ YENİ PD(II) / FOSFİN / HİDRAZİR KOMPLEKSLERİNİN SENTEZİ,"), /*#__PURE__*/
+    React.createElement("span", { className: "line" }, "İKİ YENİ Pd(II) / FOSFİN / HİDRAZİR KOMPLEKSLERİNİN SENTEZİ,"), /*#__PURE__*/
     React.createElement("span", { className: "line" }, "KARAKTERİZASYONU VE SUZUKİ EŞLEME REAKSİYONU İLE COVID-19"), /*#__PURE__*/
     React.createElement("span", { className: "line" }, "İLAÇ ADAYI OLAN ATAZANAVİR'İN"),/*#__PURE__*/
     React.createElement("span", { className: "line" },  "KISMİ SENTEZİNDE KATALİTİK ETKİNLİĞİNİN İNCELENMESİ")), /*#__PURE__*/                        
