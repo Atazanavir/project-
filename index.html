@@ -535,9 +535,8 @@ a:active {
 #welcome-section::before {
   content: '';
   position: fixed;
-  background: url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/Stars.svg?sanitize=true);
+  background: url(img/background.png);
   background-attachment: fixed;
-    
     
   width: 100%;
   min-height: 100vh;
@@ -809,16 +808,18 @@ a:active {
 
       .denemeyedeger{
           
+         width: -webkit-fit-content;
+          width: -moz-fit-content;
+          width: fit-content;
           background-image: url(img/katalizor1.png);
-          background-size:cover;
-          width: 1182px;
           height: 1246px;
+          
       }
 
       .deneme{
            background-image: url(img/katalizor2.png);
           background-size:cover;
-          width: 1182px;
+       
           height: 1246px;
           
           
@@ -1006,7 +1007,7 @@ a:active {
 /* Single Project */
 #projects .project {
   margin: 1rem auto;
-  width: 70%;
+  width: 80%;
   padding: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
