@@ -134,8 +134,7 @@ const About = props => {
 
 
 
-
-    React.createElement("p", null, "Suzuki türü eşleşme reaksiyonları olarak adlandırılan karbon-karbon (C-C) eşleştirme basamağında kullanılan katalizörler arasında paladyum kompleksleri sıklıkla yer almaktadır.")), /*#__PURE__*/
+), /*#__PURE__*/
 
 
 
@@ -146,9 +145,7 @@ const About = props => {
 
 
 
-
-
-    React.createElement("p", null, "Sentezlenen komplekslerin katalitik etkinlikleri, ticari bir antiviral ajan olan ve Covid-19 tedavisinde de araştırılan, Atazanavir molekülünün kısmi sentezinde araştırılmıştır."))))));
+)))));
 
 
 
@@ -181,7 +178,7 @@ const Project = props => {
   return /*#__PURE__*/(
     React.createElement("div", { className: "project" }, /*#__PURE__*/
     React.createElement("a", { className: "project-link", }, /*#__PURE__*/
-    React.createElement("img", { className: "project-image", src: props.img, alt: 'Screenshot of ' + props.title })), /*#__PURE__*/
+    React.createElement("img", { className: "project-image", src: props.img, alt: ' ' + props.title })), /*#__PURE__*/
 
     React.createElement("div", { className: "project-details" }, /*#__PURE__*/
     React.createElement("div", { className: "project-tile" }, /*#__PURE__*/
@@ -215,55 +212,36 @@ const Projects = props => {
     React.createElement("section", { id: "projects" }, /*#__PURE__*/
     React.createElement("div", { className: "projects-container" }, /*#__PURE__*/
     React.createElement("div", { className: "heading" }, /*#__PURE__*/
-    React.createElement("h3", { className: "title" }, "Hipotez"), /*#__PURE__*/
+    React.createElement("h3", { className: "title" }, "AMAÇ VE HEDEFLER"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
                         React.createElement("br", null),
-    React.createElement("p", { className: "subtitle" }, "Sunulan projede, fosfin ve hidrazit ligandlarının paladyum komplekslerindeki ayrı ayrı etkinliklerini bir araya getirmek hedefi ile iki yeni Pd(II)/p-tolTFF/hidrazit metal katalizörü sentezlenmesi ve sentezlenen katalizörlerin Suzuki C-C reaksiyonundaki etkinliklerinin araştırılması amaçlanmıştır.", /*#__PURE__*/
+    React.createElement("p", { className: "subtitle" }, "Bir katalizörün etkin olabilmesi için çeşitli faktörler bulunmaktadır. Bunlar arasında, katalitik tepkimenin türü (hidrojenasyon, oksidasyon vb.), reaksiyonda kullanılacak çözücülerin türleri (protik, aprotik v.b.), geçiş metalinin cinsi (palladyum, bakır v.b.) ve en önemlisi ise metale bağlanan organik yapıdaki ligandın türü ve elektronik özellikleridir. Ligandların katalizör aktivitesi ve seçicilikleri üzerindeki büyük etkileri keşfedildikten sonra, farklı kimyasal özelliklere sahip ligandların tasarımı ve sentezi hız kazanmıştır.", /*#__PURE__*/
                         
     
-    React.createElement("p", null, "Suzuki eşleşme reaksiyonundan dünya genelinde etkinliği kanıtlanmış ve kullanım onayı almış Losartan, Valsartan, Ruksolitinib gibi ilaç moleküllerinin sentezinde yararlanılmaktadır."), /*#__PURE__*/
+   
+           React.createElement("p", null, "Sunulan projede, fosfin ve hidrazit ligandlarının paladyum komplekslerindeki ayrı ayrı etkinliklerini bir araya getirmek hedefi ile iki yeni Pd(II)/p-tolTFF/hidrazit metal katalizörü sentezlenmesi ve sentezlenen katalizörlerin Suzuki C-C reaksiyonundaki etkinliklerinin araştırılması amaçlanmıştır. "), /*#__PURE__*/                
+    React.createElement("br", null), /*#__PURE__*/
                         
-    React.createElement("p", null, "Proje kapsamındaki bir diğer hedefimiz ise, Kovid-19 tedavisinde umut verici bir ajan olarak halen araştırması devam eden ve piyasada HIV tedavisi amacıyla kullanılan bir antiviral ajan olan Atazanavir’in sentezinde gerekli 2-fenilpiridin’in Suzuki C-C eşleşme reaksiyonu ile katalitik olarak elde edilmesidir."), /*#__PURE__*/
-    React.createElement("p", null, "Atazanavir, Amerikan Ulusal Gıda ve İlaç Dairesi (FDA) tarafından 2003 yılında kullanımı onaylanan ve HIV (İnsan Bağışıklık Yetmezliği Virüsü) tedavisinde kullanılan bir antiviral ilaç molekülüdür (Vechia vd., 2013)."), /*#__PURE__*/
-    React.createElement("p", null, "Katalizörler, dünya genelinde tarım ilaçları, kozmetik ürünler, petrokimya ürünleri, otomotiv sektörü ve özellikle ilaç aktif bileşiklerin eldesi gibi kritik alanlarda yaygın olarak kullanılmakta ve bu alana yapılan yatırımlar gün geçtikçe artmaktadır. Bu nedenle tüm dünyada katalizör araştırmalarına özellikle üniversiteler ve Ar-Ge merkezlerinde büyük bütçeler ayrılmaktadır."), /*#__PURE__*/
-                        
-    React.createElement("p", null, "Katalizör sentezinde nihai hedef, ürün veriminin yüksek olması, ürün seçiciliğinin yüksek olması ve az enerji ve zaman harcayarak hedef ürünlere ulaşılmasıdır. Bu hedeflere ne kadar yaklaşılırsa doğrudan ve dolaylı olarak ülke ekonomisine büyük katkılar sağlanabilmektedir."), /*#__PURE__*/
-    React.createElement("p", null, "Bir katalizörün etkin olabilmesi için çeşitli faktörler bulunmaktadır. Bunlar arasında, katalitik tepkimenin türü (hidrojenasyon, oksidasyon vb.), reaksiyonda kullanılacak çözücülerin türleri (protik, aprotik v.b.), geçiş metalinin cinsi (palladyum, bakır v.b.) ve en önemlisi ise metale bağlanan organik yapıdaki ligandın türü ve elektronik özellikleridir. Ligandların katalizör aktivitesi ve seçicilikleri üzerindeki büyük etkileri keşfedildikten sonra, farklı kimyasal özelliklere sahip ligandların tasarımı ve sentezi hız kazanmıştır."), /*#__PURE__*/
-    React.createElement("p", null, "Sunulan projede, fosfin ve hidrazit ligandlarının paladyum komplekslerindeki ayrı ayrı etkinliklerini bir araya getirmek hedefi ile iki yeni Pd(II)/p-tolTFF/hidrazit metal katalizörü sentezlenmesi ve sentezlenen katalizörlerin Suzuki C-C reaksiyonundaki etkinliklerinin araştırılması amaçlanmıştır."), /*#__PURE__*/
-    React.createElement("p", null, "Suzuki C-C eşleşme reaksiyonu, bir aril halojenür ile bir aril boronik asitin, bazik ortamda biaril oluşturmak üzere gerçekleştiği bir C-C eşleşme reaksiyonudur (Kotha vd., 2002). Suzuki eşleşme reaksiyonundan dünya genelinde etkinliği kanıtlanmış ve kullanım onayı almış Losartan, Valsartan, Ruksolitinib gibi ilaç moleküllerinin sentezinde yararlanılmaktadır."), /*#__PURE__*/
-    React.createElement("p", null, "Proje kapsamındaki bir diğer hedefimiz ise, Kovid-19 tedavisinde umut verici bir ajan olarak halen araştırması devam eden ve piyasada halen HIV tedavisi amacıyla kullanılan bir antiviral ajan olan Atazanavir’in sentezinde gerekli 2-fenilpiridin’in Suzuki C-C eşleşme reaksiyonu ile katalitik olarak elde edilmesidir."), /*#__PURE__*/
-    React.createElement("p", null, "Sonuç olarak;"), /*#__PURE__*/
-    React.createElement("p", null, "- Fosfin ve hidrazit iskeletine sahip ligandları birlikte içeren orijinal yapıdaki iki yeni paladyum kompleksinin sentezlenmesi,"), /*#__PURE__*/
-    React.createElement("p", null, "- Sentezlenecek yeni Pd(II) komplekslerinin Suzuki C-C eşleşme reaksiyonu üzerinde katalitik etkinliğinin araştırılması ve"), /*#__PURE__*/
-    React.createElement("p", null, "- Elde edilen katalitik sistem yoluyla bir Kovid-19 ilaç adayı olan Atazanavir sentezinde gerekli olan 2- fenilpiridin’in elde edilecek olması, sunulan projenin özgünlüğünü ortaya koymakta ve projeden alınacak sonuçların literatüre önemli katkı sağlayacağı düşünülmektedir."), /*#__PURE__*/
-           React.createElement("p", null, " "), /*#__PURE__*/                
+                      /*#__PURE__*/                      
     React.createElement("br", null), /*#__PURE__*/
                         React.createElement("br", null),
-    React.createElement("h3", { className: "title" }, "Amaç ve Hedefler"), /*#__PURE__*/
-    React.createElement("p", { className: "separator" }), /*#__PURE__*/
-                         React.createElement("br", null),
-                         
-    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Kovid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), /*#__PURE__*/                      
-    React.createElement("br", null), /*#__PURE__*/
-                        React.createElement("br", null),
-    React.createElement("h3", { className: "title" }, "Yöntem"), /*#__PURE__*/
+    React.createElement("h3", { className: "title" }, "YÖNTEM"), /*#__PURE__*/
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
                                                  React.createElement("br", null),
-    React.createElement("p", null, "Projede planlanan sentezlerin tamamı, inert atmosfer (azot gazı) altında gerçekleştirilmiştir. Komplekslerin sentez reaksiyonlarının takibi ince tabaka kromatografisi ile gerçekleştirilmiştir. Komplekslerin tamamı NMR (1H, 13C), FT-IR, Elementel analiz gibi tekniklerle karakterize edilmiş olup ve kompleks bileşiklerin yapıları  X-ışınları tek kristal spektroskopisi yöntemi ile de aydınlatılmıştır."), /*#__PURE__*/
-    React.createElement("p", null, "Yapı karakterizasyon çalışmalarının ardından, sentezlenen Pd(II) komplekslerinin katalitik etkinlikleri Suzuki- Miyaura C-C eşleşme reaksiyonları üzerinde test edilmiştir. Katalitik reaksiyonlarda, çözücü türü etkisi, substrat/katalizör oranı, baz türü etkisi, sıcaklık etkisi ve zaman etkisi testleri yapılmıştır."), /*#__PURE__*/
+    React.createElement("p", null, "- Fosfin ve hidrazit iskeletine sahip ligandları birlikte içeren orijinal yapıdaki iki yeni paladyum kompleksinin sentezlenmesi,"), /*#__PURE__*/
+    React.createElement("p", null, "- Sentezlenecek yeni Pd(II) komplekslerinin Suzuki C-C eşleşme reaksiyonu üzerinde katalitik etkinliğinin araştırılması ve"),
+    React.createElement("p",null,"- Elde edilen katalitik sistem yoluyla bir Kovid-19 ilaç adayı olan Atazanavir sentezinde gerekli olan 2- fenilpiridin’in elde edilecek olması, sunulan projenin özgünlüğünü ortaya koymakta ve projeden alınacak sonuçların literatüre önemli katkı sağlayacağı düşünülmektedir"),
+                        
+                        
+                        /*#__PURE__*/
                         
     React.createElement("br", null), /*#__PURE__*/
                         React.createElement("br", null),
-    React.createElement("h3", { className: "title" }, "Katalitik Çalışma"), /*#__PURE__*/
+    React.createElement("h3", { className: "title" }, "Pd(II)/p-tolTFF/hidrazit komplekslerinin sentezi"), /*#__PURE__*/
+                        
     React.createElement("p", { className: "separator" }), /*#__PURE__*/                    
                         
                         React.createElement("br", null),
-    React.createElement("p", null, "Yapılan çalışmaları 3 ana başlıkta toplayacak olursak;"), /*#__PURE__*/
-    React.createElement("p", null, "1- İki yeni Paladyum/TFF/hidrazit kompleksinin sentezlenmesi ve saflaştırılması,"), /*#__PURE__*/
-    React.createElement("p", null, "2- Sentezlenen ve saflaştırılan komplekslerin yapılarının aydınlatılması"), /*#__PURE__*/
-    React.createElement("p", null, "3- Her iki kompleksin Suzuki eşleşme reaksiyonu üzerindeki katalitik etkinliklerinin incelenmesi."), /*#__PURE__*/  
-    React.createElement("p", null, " "), /*#__PURE__*/          
-    React.createElement("h3", { className: "baslik" }, "Pd(II)/p-tolTFF/hidrazit komplekslerinin sentezi"), /*#__PURE__*/
     React.createElement("p", null, "Bu aşamada p-tolTFF ile para konumlarında hidrojen (-H) ve hidrojene nazaran daha elektron verici bir grup olan metil (-CH3) grupları içeren hidrazit ligandları, paladyum(II) klorür ile asetonitril çözücüsü içerisinde ayrı ayrı reaksiyona sokularak Şekil’de verilen iki farklı Pd(II)/p-tolTFF/hidrazit kompleksi sentezlenmiştir."), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
@@ -386,6 +364,9 @@ const Contact = props => {
     React.createElement("p", null, "Katalizör kodu 2 olan maddenin, katalitik çalışmaları sonucunda elde edilen veriler ışığında, sub/cat oranı 100 olan en optimum uygunluğa sahip çözücünün 1:1 oranında EtOH/H2O, optimum sıcaklığın 60C ve uygun baz Na2co3 (sodyum karbonat) olarak belirlenmiştir."), /*#__PURE__*/
                                    
 
+                         
+    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Kovid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), 
+                        
     React.createElement("p", { className: "subtitle" }, " ",
     '', /*#__PURE__*/
     React.createElement("span", { className: "" }, "", /*#__PURE__*/
