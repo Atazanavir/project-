@@ -79,10 +79,10 @@ const Header = props => {
     React.createElement("div", { className: "moon" }), /*#__PURE__*/
     React.createElement("div", { className: "container" }, /*#__PURE__*/
     React.createElement("h1", null, /*#__PURE__*/
-    React.createElement("span", { className: "line" }, "İki Yeni PD(II) / Fosfin / Hidrazit Komplekslerinin Sentezi,"), /*#__PURE__*/
-    React.createElement("span", { className: "line" }, "Karakterizasyonu ve Suzuki Eşleşme Reaksiyonu İle COVID-19"), /*#__PURE__*/
-    React.createElement("span", { className: "line" }, " İlaç Adayı Olan Atazanavir’in "),/*#__PURE__*/
-    React.createElement("span", { className: "line" },  "Kısmi Sentezinde Katalitik Etkinliğinin İncelenmesi")), /*#__PURE__*/                        
+    React.createElement("span", { className: "line" }, "İKİ YENİ PD(II) / FOSFİN / HİDRAZİR KOMPLEKSLERİNİN SENTEZİ,"), /*#__PURE__*/
+    React.createElement("span", { className: "line" }, "KARAKTERİZASYONU VE SUZUKİ EŞLEME REAKSİYONU İLE COVID-19"), /*#__PURE__*/
+    React.createElement("span", { className: "line" }, "İLAÇ ADAYI OLAN ATAZANAVİR'İN"),/*#__PURE__*/
+    React.createElement("span", { className: "line" },  "KISMİ SENTEZİNDE KATALİTİK ETKİNLİĞİNİN İNCELENMESİ")), /*#__PURE__*/                        
                         
 
                         
@@ -230,7 +230,7 @@ const Projects = props => {
                                                  React.createElement("br", null),
     React.createElement("p", null, "- Fosfin ve hidrazit iskeletine sahip ligandları birlikte içeren orijinal yapıdaki iki yeni paladyum kompleksinin sentezlenmesi,"), /*#__PURE__*/
     React.createElement("p", null, "- Sentezlenecek yeni Pd(II) komplekslerinin Suzuki C-C eşleşme reaksiyonu üzerinde katalitik etkinliğinin araştırılması ve"),
-    React.createElement("p",null,"- Elde edilen katalitik sistem yoluyla bir Kovid-19 ilaç adayı olan Atazanavir sentezinde gerekli olan 2- fenilpiridin’in elde edilecek olması, sunulan projenin özgünlüğünü ortaya koymakta ve projeden alınacak sonuçların literatüre önemli katkı sağlayacağı düşünülmektedir"),
+    React.createElement("p",null,"- Elde edilen katalitik sistem yoluyla bir Covid-19 ilaç adayı olan Atazanavir sentezinde gerekli olan 2- fenilpiridin’in elde edilecek olması, sunulan projenin özgünlüğünü ortaya koymakta ve projeden alınacak sonuçların literatüre önemli katkı sağlayacağı düşünülmektedir"),
                         
                         
                         /*#__PURE__*/
@@ -351,8 +351,8 @@ const Contact = props => {
     React.createElement("br", null),
                         
                         
-    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Kovid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), 
-    React.createElement("p", null, "Tüm bu çalışmalar sonucunda Kovid-19 tedavisinde umut verici bir antiviral ajan olan atazanavir’in biaril kısmına ait sentez basamağının etkili ve verimli bir şekilde alternatif yolları keşfedilmiş ve tartışılmıştır."), /*#__PURE__*/
+    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Covid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), 
+    React.createElement("p", null, "Tüm bu çalışmalar sonucunda Covid-19 tedavisinde umut verici bir antiviral ajan olan atazanavir’in biaril kısmına ait sentez basamağının etkili ve verimli bir şekilde alternatif yolları keşfedilmiş ve tartışılmıştır."), /*#__PURE__*/
    
                                    
 
