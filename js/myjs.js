@@ -318,8 +318,6 @@ const Projects = props => {
                                                 
                                                 
                                                 
-                                                
-    React.createElement("p", null, ""), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
     React.createElement("p", null, ""), /*#__PURE__*/
@@ -336,12 +334,22 @@ const Projects = props => {
                         
     React.createElement("p", null, "")),
                         
+                                                
+     
                        
-                  
                        
-                       
-                       )
+                       ),
                         
+    React.createElement("div", { className: "denemeyedeger" }, /*#__PURE__*/
+                          React.createElement("p", null, "."), /*#__PURE__*/
+                       
+               
+         ),
+            React.createElement("div", { className: "deneme" }, /*#__PURE__*/
+                          React.createElement("p", null, "."), /*#__PURE__*/
+                       
+               
+         ),             
                        
                        )));
 
