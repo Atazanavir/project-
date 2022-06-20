@@ -349,13 +349,14 @@ const Contact = props => {
     React.createElement("p", { className: "separator" }), /*#__PURE__*/
                         
     React.createElement("br", null),
+                        
+                        
+    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Kovid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), 
     React.createElement("p", null, "Tüm bu çalışmalar sonucunda Kovid-19 tedavisinde umut verici bir antiviral ajan olan atazanavir’in biaril kısmına ait sentez basamağının etkili ve verimli bir şekilde alternatif yolları keşfedilmiş ve tartışılmıştır."), /*#__PURE__*/
-    React.createElement("p", null, "Katalizör kodu 1 olan maddenin, katalitik çalışmaları sonucunda elde edilen veriler ışığında sub/cat oranı 100 olan, en optimum uygunluğa sahip çözücünün 1:1 oranında 1,4-dioxane/h2o, optimum sıcaklığın 80C ve uygun baz K2CO3 (potasyum karbonat) olarak belirlenmiştir."), /*#__PURE__*/
-    React.createElement("p", null, "Katalizör kodu 2 olan maddenin, katalitik çalışmaları sonucunda elde edilen veriler ışığında, sub/cat oranı 100 olan en optimum uygunluğa sahip çözücünün 1:1 oranında EtOH/H2O, optimum sıcaklığın 60C ve uygun baz Na2co3 (sodyum karbonat) olarak belirlenmiştir."), /*#__PURE__*/
+   
                                    
 
                          
-    React.createElement("p", null, "Bir HIV tedavi ajanı olarak onay almış Atazanavir’in Kovid-19’a karşı umut verici etkilerinin görülmesi ve bu molekülün sentez aşamalarından birisinin C-C eşleşme reaksiyonu içeriyor olması bu molekülü daha da değerli hale getirmiştir. Bu nedenlerle; projede ana amaç, Suzuki C-C eşleşme reaksiyonundan yola çıkılarak, Atazanavir sentezinde gerekli olan biaril (2-fenilpiridin) bileşiğini optimum koşullarda elde etmektir. Bu sebeplerden dolayı önerilen projenin literatüre, grubumuzun bilgi birikimine, laboratuvar deneyimlerimize ve dolaylı olarak ülkemize ciddi katkılar sunacağı düşünülmektedir."), 
                         
     React.createElement("p", { className: "subtitle" }, " ",
     '', /*#__PURE__*/
